@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Md Zubaer Rahman
+- 👋 Hi, I’m Md Zubaer Rahman currently studying Salesforce Developer Accelator program at Mission Ready. 
 - 👀 I’m interested in SalesForce Development
 - 🌱 I’m currently learning 
 - Salesforce Configaration
