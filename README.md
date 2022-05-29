@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zubaer Rahman
+- 👋 Hi, I’m Md Zubaer Rahman
 - 👀 I’m interested in SalesForce Development
 - 🌱 I’m currently learning 
 - Salesforce Configaration
@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on SalesForce
 - 📫 How to reach me mdzubaerrahman@gmail.com
 
-While studing salesforce I worked with Menulog as a Business Development Manager. 
+While studing Salesforce I worked with Menulog as a Business Development Manager. 
 Want to have a chat, feel free to reach out.
 <!---
 zubi95/zubi95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
