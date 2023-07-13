@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Md Zubaer Rahman trying to become a Data Analyst. 
-- 👀 I’m interested in Cloud Data
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Md Zubaer Rahman. 
 - 📫 How to reach me mdzubaerrahman@gmail.com
 
 <!---
